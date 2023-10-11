@@ -10,16 +10,16 @@
 
 <br/>
 
-## Install
+## Install (this fork from `vpistis` repo)
 
 ```fish
-$ omf install https://github.com/blackjid/plugin-kubectl
+$ omf install https://github.com/vpistis/plugin-kubectl
 ```
 
 or with fisher
 
 ```fish
-$ fisher install blackjid/plugin-kubectl
+$ fisher install vpistis/plugin-kubectl
 ```
 
 ## Usage
